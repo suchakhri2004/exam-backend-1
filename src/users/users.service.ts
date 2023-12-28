@@ -1,4 +1,3 @@
-// src/users/users.service.ts
 import { NotFoundException } from '@nestjs/common';
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
